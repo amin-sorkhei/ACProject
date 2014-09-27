@@ -1,4 +1,4 @@
 ACProject
 =========
-
-This a student project in early stage of development
+Hi guys
+This a student project in early stages of development
